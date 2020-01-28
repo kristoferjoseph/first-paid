@@ -1,2 +1,0 @@
-# first-paid
-Begin app
